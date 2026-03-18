@@ -6,8 +6,8 @@ function Header() {
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
-          <div className="w-8 h-8 bg-purple-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-sm">▶</span>
+          <div className="w-8 h-8  flex items-center justify-center">
+            <img src="/src/assets/images/logo.png" alt="logo" />
           </div>
           <span className="text-white font-bold text-lg">HERO.IO</span>
         </Link>
