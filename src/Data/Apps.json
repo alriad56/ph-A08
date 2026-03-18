@@ -1,0 +1,290 @@
+[
+    {
+      "id": 1,
+      "title": "Forest: Focus For Productivity",
+      "companyName": "Seekrtech",
+      "image": "https://placehold.co/300x300/7c3aed/white?text=Forest",
+      "description": "Forest is a productivity app that helps you stay focused by growing virtual trees. Plant a tree and focus — if you leave the app, your tree dies. Build a forest while building good habits. The app uses gamification to keep you motivated throughout the day. It also integrates with real tree planting, so your focus literally helps the planet. Perfect for students, professionals, and anyone struggling with phone addiction.",
+      "size": 256,
+      "reviews": 145000,
+      "ratingAvg": 4.8,
+      "downloads": 4900000,
+      "ratings": [
+        { "name": "1 star", "count": 200 },
+        { "name": "2 star", "count": 400 },
+        { "name": "3 star", "count": 1200 },
+        { "name": "4 star", "count": 4000 },
+        { "name": "5 star", "count": 9000 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "SmPlan: ToDo List With Reminder",
+      "companyName": "productiveMe.io",
+      "image": "https://placehold.co/300x300/0ea5e9/white?text=SmPlan",
+      "description": "SmPlan is a powerful task manager with smart reminders and habit tracking. Organize your day, week, and month with beautiful lists and priority-based scheduling. The app syncs across all your devices and integrates with Google Calendar. Great for teams and individuals who want to stay on top of their goals without feeling overwhelmed.",
+      "size": 180,
+      "reviews": 89000,
+      "ratingAvg": 4.9,
+      "downloads": 8000000,
+      "ratings": [
+        { "name": "1 star", "count": 150 },
+        { "name": "2 star", "count": 300 },
+        { "name": "3 star", "count": 800 },
+        { "name": "4 star", "count": 3500 },
+        { "name": "5 star", "count": 12000 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "FLIP - Focus Timer For Study",
+      "companyName": "FLIP Corp",
+      "image": "https://placehold.co/300x300/f59e0b/white?text=FLIP",
+      "description": "FLIP turns your phone face-down to track your focus time. The longer you stay focused, the more coins you earn. Compete with friends on leaderboards or focus solo. FLIP has been proven to reduce phone distractions by up to 60%. Perfect for students preparing for exams.",
+      "size": 142,
+      "reviews": 67000,
+      "ratingAvg": 4.7,
+      "downloads": 2400000,
+      "ratings": [
+        { "name": "1 star", "count": 100 },
+        { "name": "2 star", "count": 250 },
+        { "name": "3 star", "count": 700 },
+        { "name": "4 star", "count": 2800 },
+        { "name": "5 star", "count": 8000 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pomodoro - Cute Pomodoro Timer",
+      "companyName": "Focus Apps Inc",
+      "image": "https://placehold.co/300x300/ef4444/white?text=Pomo",
+      "description": "A beautiful, minimalist Pomodoro timer with cute character themes. Break your work into 25-minute focused sessions with 5-minute breaks. Track your productivity streaks and see your weekly focus history. Comes with ambient sounds and motivational messages to keep you energized.",
+      "size": 98,
+      "reviews": 45000,
+      "ratingAvg": 4.6,
+      "downloads": 3100000,
+      "ratings": [
+        { "name": "1 star", "count": 80 },
+        { "name": "2 star", "count": 200 },
+        { "name": "3 star", "count": 600 },
+        { "name": "4 star", "count": 2200 },
+        { "name": "5 star", "count": 7000 }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Time Planner: Schedule & Tasks",
+      "companyName": "Buildworks",
+      "image": "https://placehold.co/300x300/10b981/white?text=TimePlan",
+      "description": "Time Planner is the ultimate scheduling app combining daily planner, task manager, and habit tracker in one beautiful interface. Plan your day visually, block time for deep work, and never miss a deadline again. Includes calendar integration, team sharing, and weekly review features.",
+      "size": 210,
+      "reviews": 120000,
+      "ratingAvg": 4.5,
+      "downloads": 5600000,
+      "ratings": [
+        { "name": "1 star", "count": 300 },
+        { "name": "2 star", "count": 600 },
+        { "name": "3 star", "count": 1500 },
+        { "name": "4 star", "count": 5000 },
+        { "name": "5 star", "count": 11000 }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Morning Habits - Daily Routine",
+      "companyName": "HabitLab",
+      "image": "https://placehold.co/300x300/f97316/white?text=Habits",
+      "description": "Build powerful morning routines with Morning Habits. Track daily habits, set streaks, and visualize your progress over time. Includes science-backed habit stacking techniques and guided meditations. Thousands of users have transformed their mornings and reported higher energy and productivity.",
+      "size": 165,
+      "reviews": 78000,
+      "ratingAvg": 4.7,
+      "downloads": 3800000,
+      "ratings": [
+        { "name": "1 star", "count": 120 },
+        { "name": "2 star", "count": 280 },
+        { "name": "3 star", "count": 900 },
+        { "name": "4 star", "count": 3200 },
+        { "name": "5 star", "count": 9500 }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Focus Plant: Pomodoro Focus",
+      "companyName": "GreenMind",
+      "image": "https://placehold.co/300x300/84cc16/black?text=FocusPlant",
+      "description": "Grow a beautiful digital garden while you study and work. Focus Plant combines the Pomodoro technique with a relaxing garden-building game. Each focus session waters your plants. Stay consistent to unlock rare plants and create stunning garden landscapes.",
+      "size": 190,
+      "reviews": 56000,
+      "ratingAvg": 4.8,
+      "downloads": 2900000,
+      "ratings": [
+        { "name": "1 star", "count": 90 },
+        { "name": "2 star", "count": 180 },
+        { "name": "3 star", "count": 500 },
+        { "name": "4 star", "count": 2500 },
+        { "name": "5 star", "count": 8800 }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Alarmy - Alarm Clock & Sleep",
+      "companyName": "Delight Room",
+      "image": "https://placehold.co/300x300/6366f1/white?text=Alarmy",
+      "description": "The world's most annoying alarm clock that actually gets you out of bed. Alarmy requires you to complete missions like solving math problems or scanning a QR code to turn off the alarm. Track your sleep patterns and set smart wake-up times based on sleep cycles.",
+      "size": 223,
+      "reviews": 200000,
+      "ratingAvg": 4.6,
+      "downloads": 9200000,
+      "ratings": [
+        { "name": "1 star", "count": 400 },
+        { "name": "2 star", "count": 700 },
+        { "name": "3 star", "count": 1800 },
+        { "name": "4 star", "count": 6000 },
+        { "name": "5 star", "count": 15000 }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Notion - Notes & Docs",
+      "companyName": "Notion Labs",
+      "image": "https://placehold.co/300x300/1e293b/white?text=Notion",
+      "description": "Notion is an all-in-one workspace for notes, tasks, wikis, and databases. Whether managing a team or organizing personal life, Notion adapts to your workflow. Use it for meeting notes, project roadmaps, habit trackers, and more — all in one beautiful, customizable space.",
+      "size": 310,
+      "reviews": 350000,
+      "ratingAvg": 4.7,
+      "downloads": 15000000,
+      "ratings": [
+        { "name": "1 star", "count": 500 },
+        { "name": "2 star", "count": 900 },
+        { "name": "3 star", "count": 2500 },
+        { "name": "4 star", "count": 9000 },
+        { "name": "5 star", "count": 20000 }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Todoist: To-Do List & Planner",
+      "companyName": "Doist",
+      "image": "https://placehold.co/300x300/dc2626/white?text=Todoist",
+      "description": "Todoist is the world's #1 task manager with over 30 million users. Add tasks naturally with due dates, priorities, labels, and projects. Integrates with Gmail, Slack, Google Calendar, and 60+ other apps to keep everything in sync.",
+      "size": 175,
+      "reviews": 280000,
+      "ratingAvg": 4.8,
+      "downloads": 12000000,
+      "ratings": [
+        { "name": "1 star", "count": 350 },
+        { "name": "2 star", "count": 700 },
+        { "name": "3 star", "count": 2000 },
+        { "name": "4 star", "count": 8000 },
+        { "name": "5 star", "count": 18000 }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Headspace: Meditation & Sleep",
+      "companyName": "Headspace Inc",
+      "image": "https://placehold.co/300x300/f59e0b/white?text=Headspace",
+      "description": "Headspace makes meditation simple. Learn meditation and mindfulness skills for stress, anxiety, sleep, focus, and more. With guided sessions ranging from 3 to 20 minutes, Headspace fits into even the busiest schedule. Millions use it to improve mental health.",
+      "size": 290,
+      "reviews": 420000,
+      "ratingAvg": 4.9,
+      "downloads": 18000000,
+      "ratings": [
+        { "name": "1 star", "count": 300 },
+        { "name": "2 star", "count": 600 },
+        { "name": "3 star", "count": 1500 },
+        { "name": "4 star", "count": 7000 },
+        { "name": "5 star", "count": 25000 }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Brain.fm - Focus Music",
+      "companyName": "Brain.fm Inc",
+      "image": "https://placehold.co/300x300/0284c7/white?text=Brain.fm",
+      "description": "Brain.fm uses AI-powered music scientifically designed to improve focus, relaxation, and sleep. Unlike regular music, Brain.fm creates functional music with specific brainwave entrainment to put you in the zone faster. Used by top athletes, executives, and students worldwide.",
+      "size": 128,
+      "reviews": 95000,
+      "ratingAvg": 4.6,
+      "downloads": 4200000,
+      "ratings": [
+        { "name": "1 star", "count": 180 },
+        { "name": "2 star", "count": 350 },
+        { "name": "3 star", "count": 1000 },
+        { "name": "4 star", "count": 3800 },
+        { "name": "5 star", "count": 10000 }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Calm - Sleep & Meditation",
+      "companyName": "Calm.com Inc",
+      "image": "https://placehold.co/300x300/0891b2/white?text=Calm",
+      "description": "Calm is the #1 app for sleep, meditation, and relaxation. Discover Sleep Stories, breathing programs, masterclasses, relaxing music, and guided meditations. Trusted by over 100 million people. Calm adapts to your lifestyle to help you reduce stress and sleep better.",
+      "size": 260,
+      "reviews": 510000,
+      "ratingAvg": 4.8,
+      "downloads": 22000000,
+      "ratings": [
+        { "name": "1 star", "count": 400 },
+        { "name": "2 star", "count": 800 },
+        { "name": "3 star", "count": 2000 },
+        { "name": "4 star", "count": 9500 },
+        { "name": "5 star", "count": 28000 }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Duolingo - Language Lessons",
+      "companyName": "Duolingo Inc",
+      "image": "https://placehold.co/300x300/16a34a/white?text=Duolingo",
+      "description": "Learn a new language with the world's most-downloaded education app. Duolingo makes language learning fun and addictive with bite-sized lessons, streaks, and social features. Practice Spanish, French, Japanese, Mandarin, and 40+ other languages for free.",
+      "size": 320,
+      "reviews": 890000,
+      "ratingAvg": 4.7,
+      "downloads": 45000000,
+      "ratings": [
+        { "name": "1 star", "count": 800 },
+        { "name": "2 star", "count": 1500 },
+        { "name": "3 star", "count": 4000 },
+        { "name": "4 star", "count": 15000 },
+        { "name": "5 star", "count": 50000 }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Anki - Flashcard Learning",
+      "companyName": "Anki UNLIMITED",
+      "image": "https://placehold.co/300x300/7c3aed/white?text=Anki",
+      "description": "Anki uses spaced repetition to help you memorize anything — medical facts, language vocabulary, historical dates, and more. Create custom flashcard decks or download from thousands of community-shared decks. Used by medical students, lawyers, and language learners worldwide.",
+      "size": 145,
+      "reviews": 160000,
+      "ratingAvg": 4.5,
+      "downloads": 7500000,
+      "ratings": [
+        { "name": "1 star", "count": 250 },
+        { "name": "2 star", "count": 500 },
+        { "name": "3 star", "count": 1400 },
+        { "name": "4 star", "count": 5500 },
+        { "name": "5 star", "count": 12000 }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "TickTick: To Do List Planner",
+      "companyName": "Appest Inc",
+      "image": "https://placehold.co/300x300/2563eb/white?text=TickTick",
+      "description": "TickTick is a powerful cross-platform to-do list app and task manager. Capture ideas, set reminders, manage projects, and build habits — all in one place. Includes a built-in Pomodoro timer, habit tracker, and calendar view. Trusted by millions to stay organized.",
+      "size": 198,
+      "reviews": 220000,
+      "ratingAvg": 4.8,
+      "downloads": 10000000,
+      "ratings": [
+        { "name": "1 star", "count": 280 },
+        { "name": "2 star", "count": 560 },
+        { "name": "3 star", "count": 1600 },
+        { "name": "4 star", "count": 7000 },
+        { "name": "5 star", "count": 16000 }
+      ]
+    }
+  ]
