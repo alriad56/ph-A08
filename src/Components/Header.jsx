@@ -7,7 +7,7 @@ function Header() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
           <div className="w-8 h-8  flex items-center justify-center">
-            <img src="/src/assets/images/logo.png" alt="logo" />
+            <img src="/images/logo.png" alt="logo" />
           </div>
           <span className="text-white font-bold text-lg">HERO.IO</span>
         </Link>

@@ -23,7 +23,7 @@ function AppDetailsPage() {
   const [isInstalled, setIsInstalled] = useState(false);
   const [toast, setToast] = useState(null);
 
-  // Check localStorage on mount
+
   useEffect(() => {
     const installed = JSON.parse(localStorage.getItem("installedApps") || "[]");
     const found = installed.find((a) => a.id === app.id);
@@ -38,7 +38,7 @@ function AppDetailsPage() {
     setToast({ message: `${app.title} installed successfully!`, type: "success" });
   }
 
-  // Chart data - reverse so 5 star is on top
+  
   const chartData = [...app.ratings].reverse();
 
   return (

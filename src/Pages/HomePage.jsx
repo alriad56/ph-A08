@@ -41,7 +41,7 @@ function HomePage() {
           {/* Phone mockup */}
           <div className="mt-12 relative flex justify-center">
   <img 
-    src="/src/assets/images/hero.png" 
+    src="/images/hero.png" 
     alt="App Preview" 
     className="w-auto h-80 object-contain"
   />

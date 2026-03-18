@@ -3,7 +3,7 @@ import MainLayout from "../Components/MainLayout";
 import HomePage from "../Pages/HomePage";
 import AppsPage from "../Pages/AppsPage";
 import AppDetailsPage from "../Pages/AppDetailsPage";
-import InstallationPage from "../pages/InstallationPage";
+import InstallationPage from "../Pages/InstallationPage";
 import ErrorPage from "../Pages/ErrorPage";
 import apps from "../data/apps.json";
 
