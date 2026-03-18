@@ -7,17 +7,17 @@ import InstallationPage from "../pages/InstallationPage";
 import ErrorPage from "../Pages/ErrorPage";
 import apps from "../data/apps.json";
 
-// Loader for home page - returns first 8 apps
+
 function homeLoader() {
   return { apps: apps.slice(0, 8), totalApps: apps.length };
 }
 
-// Loader for all apps page
+
 function appsLoader() {
   return { apps };
 }
 
-// Loader for app details page
+
 function appDetailsLoader({ params }) {
   const app = apps.find((a) => a.id === Number(params.id));
   if (!app) {
@@ -26,7 +26,6 @@ function appDetailsLoader({ params }) {
   return { app };
 }
 
-// Loader for installation page
 function installationLoader() {
   return {};
 }
